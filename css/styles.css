@@ -52,3 +52,12 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+.language-level {
+	border:#8b5687 !important;
+}
+.language-level .language-progress{
+	background-color:rgb(204, 173, 115) !important; /* Change to your desired color */
+}
+.language-level {
+	background-color:rgb(195, 158, 46) !important; /* Change to your desired color */ 
+}
