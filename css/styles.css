@@ -14,14 +14,14 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #cda3c6;
+    background-color: #ffffff;
 }
 .custom-heading {
     font-family: 'sans-serif'; /* Change the font */
-    color: #ffffff; /* Change the color */
+    color: hsl(0, 0%, 100%); /* Change the color */
 }
 .resume-main {
-	background-color: #e1cfde;
+	background-color: #ffffff;
 }
 
 .resume-aside {
